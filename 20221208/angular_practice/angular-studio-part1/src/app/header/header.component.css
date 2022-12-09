@@ -1,0 +1,23 @@
+.head {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rocketInfo {
+    background-image: url("https://cdn.spacetelescope.org/archives/images/screen/heic1903a.jpg");
+    text-indent: 10px;
+    color: rgb(228, 228, 228);
+    padding: 1px;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: cornflowerblue;
+}
+
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+    outline:auto;
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+
+}
+
